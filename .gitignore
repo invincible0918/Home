@@ -1,0 +1,12 @@
+# Unreal Engine 临时文件
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.vsconfig
+.DS_Store
